@@ -12,7 +12,7 @@ Bing Para gerar capas e imagens
 Keynote para criação de slides
 
 ## 🚀 Resultados
-Segue o resultado do projeto  [PROJETO IA GENERATIVA E-BOOK.pdf](https://github.com/user-attachments/files/18353694/PROJETO.IA.GENERATIVA.E-BOOK.p
+Segue o resultado do projeto  [PROJETO IA GENERATIVA E-BOOK.pdf] (https://github.com/danielmagalhaescef/lab-natty-or-not/tree/main#:~:text=Ebook_Ciclismo_PDF.pdf)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
